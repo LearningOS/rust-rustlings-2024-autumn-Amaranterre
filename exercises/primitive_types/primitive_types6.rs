@@ -7,6 +7,7 @@
 // for a hint.
 
 
+
 #[test]
 fn indexing_tuple() {
     let numbers = (1, 2, 3);
